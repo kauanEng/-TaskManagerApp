@@ -5,3 +5,5 @@
 - Firebase com firestone para a manipulação de dados.
 - NextAuth para autenticação com GitHub 
 - Estilização feita com SASS.
+
+Projeto esta hospedado na vercel: https://appnextjstasks.herokuapp.com/
